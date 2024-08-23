@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function reverse(str){
+            let str1=str.trim().split(" ");
+            let newStr=str1.filter((value)=>value.length>1)
+            return newStr.reverse().join(" ");
+        }
+
+        console.log(reverse("the sky is blue"))
+        console.log(reverse("  hello world  "))
+        console.log(reverse("a good   example"))
+
+    </script>
+</body>
+</html>
