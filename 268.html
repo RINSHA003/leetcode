@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function missing(num){
+         let len=num.length
+         let totalsum=len*(len+1)/2
+         sum=num.reduce((a,b)=>a+b,0)
+         missing=totalsum-sum
+         return missing
+        }
+        console.log(missing([1,2]))
+    </script>
+</body>
+</html>
