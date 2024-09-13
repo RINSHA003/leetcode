@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // function removeDuplicates(s){
+      //     let sorted=new Set(s)
+      //     console.log(sorted)
+      //     return sorted.size
+
+      // }
+      // console.log(removeDuplicates([0,0,1,1,1,2,2,3,3,4])
+
+      var removeDuplicates = function (nums) {
+        let i = 0;
+        for (j = 1; j < nums.length; j++) {
+          if (nums[i] != nums[j]) {
+            i++;
+            nums[i] = nums[j];
+          }
+        }
+         
+        return i + 1;
+
+      };
+    </script>
+  </body>
+</html>
