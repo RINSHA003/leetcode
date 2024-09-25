@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+    //   var addToArrayForm = function (num, k) {
+    //     let joined = num.join("");
+    //     console.log(joined)
+    //     sum = parseInt(joined)+ k;
+    //     console.log(sum)
+    //     array = sum.toString().split("");
+    //     console.log(array)
+    //     return array;
+    //   };
+    //   console.log(addToArrayForm([1,2,0,0],32))
+
+    var addToArrayForm=function(num,k){
+        joined=BigInt(num.join(''))
+        console.log(joined)
+        sum=joined+BigInt(k)
+        console.log(sum)
+        splitted=sum.toString().split('').map(Number)
+        console.log(splitted)
+        return splitted
+    }
+    console.log(addToArrayForm([1,2,0,0],32))
+    </script>
+  </body>
+</html>
