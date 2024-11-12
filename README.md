@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RINSHA003/leetcode/tree/master/0001-two-sum) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/RINSHA003/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/RINSHA003/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RINSHA003/leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/RINSHA003/leetcode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
