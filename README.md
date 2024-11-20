@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RINSHA003/leetcode/tree/master/0001-two-sum) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/RINSHA003/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3226-minimum-number-game](https://github.com/RINSHA003/leetcode/tree/master/3226-minimum-number-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/RINSHA003/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
 | ------- |
+| [3226-minimum-number-game](https://github.com/RINSHA003/leetcode/tree/master/3226-minimum-number-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/RINSHA003/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RINSHA003/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/RINSHA003/leetcode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/RINSHA003/leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
