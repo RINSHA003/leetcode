@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/RINSHA003/leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RINSHA003/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/RINSHA003/leetcode/tree/master/0541-reverse-string-ii) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RINSHA003/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [3379-score-of-a-string](https://github.com/RINSHA003/leetcode/tree/master/3379-score-of-a-string) |
 ## Database
@@ -73,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/RINSHA003/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/RINSHA003/leetcode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
