@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RINSHA003/leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/RINSHA003/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/RINSHA003/leetcode/tree/master/0242-valid-anagram) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RINSHA003/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/RINSHA003/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/RINSHA003/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RINSHA003/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/RINSHA003/leetcode/tree/master/0541-reverse-string-ii) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RINSHA003/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RINSHA003/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/RINSHA003/leetcode/tree/master/0414-third-maximum-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/RINSHA003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3226-minimum-number-game](https://github.com/RINSHA003/leetcode/tree/master/3226-minimum-number-game) |
