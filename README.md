@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/RINSHA003/leetcode/tree/master/1524-string-matching-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/RINSHA003/leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
