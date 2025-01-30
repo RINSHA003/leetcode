@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RINSHA003/leetcode/tree/master/0001-two-sum) |
 | [0414-third-maximum-number](https://github.com/RINSHA003/leetcode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/RINSHA003/leetcode/tree/master/0724-find-pivot-index) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RINSHA003/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/RINSHA003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/RINSHA003/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3226-minimum-number-game](https://github.com/RINSHA003/leetcode/tree/master/3226-minimum-number-game) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/RINSHA003/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/RINSHA003/leetcode/tree/master/0541-reverse-string-ii) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RINSHA003/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RINSHA003/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3379-score-of-a-string](https://github.com/RINSHA003/leetcode/tree/master/3379-score-of-a-string) |
 ## Database
 |  |
