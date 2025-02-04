@@ -90,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/RINSHA003/leetcode/tree/master/0263-ugly-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/RINSHA003/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
