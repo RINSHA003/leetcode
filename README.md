@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/RINSHA003/leetcode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/RINSHA003/leetcode/tree/master/0724-find-pivot-index) |
 | [1524-string-matching-in-an-array](https://github.com/RINSHA003/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/RINSHA003/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RINSHA003/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/RINSHA003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/RINSHA003/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/RINSHA003/leetcode/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/RINSHA003/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
